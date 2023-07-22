@@ -1,1 +1,1 @@
-# time-recording-system
+# study-ai
